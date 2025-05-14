@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Xinyi Yi – Integrated Energy System</title>
-    <link>http://localhost:1313/</link>
+    <link>https://xinyiyiyiyi.github.io/</link>
     <description>Recent content on Xinyi Yi – Integrated Energy System</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xinyiyiyiyi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://xinyiyiyiyi.github.io/about/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/images/headshot.png&#34; alt=&#34;Xinyi Yi&#34; width=&#34;200&#34; style=&#34;border-radius: 12px; float: right; margin-left: 20px; margin-bottom: 10px;&#34; /&gt;
+      <guid>https://xinyiyiyiyi.github.io/about/</guid>
+      <description>&lt;img src=&#34;https://xinyiyiyiyi.github.io/images/headshot.png&#34; alt=&#34;Xinyi Yi&#34; width=&#34;200&#34; style=&#34;border-radius: 12px; float: right; margin-left: 20px; margin-bottom: 10px;&#34; /&gt;
 &lt;p&gt;👋 Hi! I&amp;rsquo;m &lt;strong&gt;Xinyi Yi&lt;/strong&gt;, a PhD student in Engineering at the University of Cambridge, Churchill College.&lt;br&gt;
 My research focuses on the &lt;strong&gt;optimal control and coordination of multi-energy systems&lt;/strong&gt;, with a current emphasis on &lt;strong&gt;district heating networks&lt;/strong&gt;, &lt;strong&gt;energy sharing&lt;/strong&gt;, and &lt;strong&gt;data-driven temperature regulation&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;I am currently supervised by &lt;strong&gt;Prof. Ioannis Lestas&lt;/strong&gt;.&lt;br&gt;
@@ -21,9 +21,9 @@ During my master&amp;rsquo;s at Tsinghua University, I worked under the guidance
     </item>
     <item>
       <title>Accepted at NECsys 2025 – Hong Kong</title>
-      <link>http://localhost:1313/news/necsys2025/</link>
+      <link>https://xinyiyiyiyi.github.io/news/necsys2025/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/necsys2025/</guid>
+      <guid>https://xinyiyiyiyi.github.io/news/necsys2025/</guid>
       <description>&lt;p&gt;🎉 Our paper &lt;strong&gt;&amp;ldquo;Optimal Energy-sharing and Temperature Regulation in District Heating Systems&amp;rdquo;&lt;/strong&gt; has been accepted to &lt;a href=&#34;https://necsys25.org/&#34;&gt;NECsys 2025&lt;/a&gt;, to be held in &lt;strong&gt;Hong Kong, June 2–5, 2025&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;-abstract&#34;&gt;📘 Abstract&lt;/h3&gt;
@@ -32,9 +32,9 @@ During my master&amp;rsquo;s at Tsinghua University, I worked under the guidance
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://xinyiyiyiyi.github.io/publications/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>https://xinyiyiyiyi.github.io/publications/</guid>
       <description>&lt;p&gt;📚 Full list on &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=CYmxJEAAAAAJ&amp;amp;view_op=list_works&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;-selected-publications&#34;&gt;📝 Selected Publications&lt;/h3&gt;
@@ -52,10 +52,10 @@ in &lt;em&gt;Proc. 61st IEEE Conf. Decision and Control (CDC)&lt;/em&gt;, Cancun
     </item>
     <item>
       <title>Research Overview</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://xinyiyiyiyi.github.io/research/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/images/research/research-loop.png&#34; alt=&#34;Research Pathway&#34; width=&#34;100%&#34; style=&#34;margin-bottom: 1rem;&#34; /&gt;
+      <guid>https://xinyiyiyiyi.github.io/research/</guid>
+      <description>&lt;img src=&#34;https://xinyiyiyiyi.github.io/images/research/research-loop.png&#34; alt=&#34;Research Pathway&#34; width=&#34;100%&#34; style=&#34;margin-bottom: 1rem;&#34; /&gt;
 &lt;h3 id=&#34;-a-closed-loop-vision-from-markets-to-control-and-back&#34;&gt;🎯 A Closed-loop Vision: From Markets to Control and Back&lt;/h3&gt;
 &lt;p&gt;My research explores how &lt;strong&gt;distributed control mechanisms&lt;/strong&gt; can support real-world operation and pricing in &lt;strong&gt;multi-energy systems&lt;/strong&gt;. I aim to bridge physical dynamics with market coordination, especially across electricity and heat sectors.&lt;/p&gt;
 &lt;hr&gt;
