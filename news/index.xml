@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>News on Xinyi Yi – Integrated Energy System</title>
+    <link>http://localhost:1313/news/</link>
+    <description>Recent content in News on Xinyi Yi – Integrated Energy System</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accepted at NECsys 2025 – Hong Kong</title>
+      <link>http://localhost:1313/news/necsys2025/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/necsys2025/</guid>
+      <description>&lt;p&gt;🎉 Our paper &lt;strong&gt;&amp;ldquo;Optimal Energy-sharing and Temperature Regulation in District Heating Systems&amp;rdquo;&lt;/strong&gt; has been accepted to &lt;a href=&#34;https://necsys25.org/&#34;&gt;NECsys 2025&lt;/a&gt;, to be held in &lt;strong&gt;Hong Kong, June 2–5, 2025&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-abstract&#34;&gt;📘 Abstract&lt;/h3&gt;
+&lt;p&gt;We consider the problem of temperature regulation and optimal energy sharing in district heating systems &lt;strong&gt;without requiring any knowledge of the demand&lt;/strong&gt;, while ensuring satisfactory transient performance.&lt;/p&gt;
+&lt;p&gt;We show that &lt;strong&gt;convex optimization problems&lt;/strong&gt; can be formulated to jointly achieve optimal temperature regulation and energy sharing. Furthermore, we demonstrate that &lt;strong&gt;LQR formulations can asymptotically converge&lt;/strong&gt; to these optimal operating points—while also minimizing transient performance metrics.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
